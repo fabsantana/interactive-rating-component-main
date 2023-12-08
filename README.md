@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontend mentor solution](https://your-solution-url.com)
+- Live Site URL: [github pages](https://fabsantana.github.io/interactive-rating-component-main/)
 
 ## Author
 
